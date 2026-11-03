@@ -24,6 +24,6 @@ I enjoy combining analytical thinking with hands-on development to build practic
 
 ### A little more about me
 
-Beyond technology, I'm passionate about literature, creative writing and discovering different cultures. I believe the best solutions come from combining technical knowledge, curiosity and an understanding of people's needs.
+Beyond technology, I'm passionate about music, creative writing and discovering different cultures. I believe the best solutions come from combining technical knowledge, curiosity and an understanding of people's needs.
 
 I'm always eager to learn, collaborate and tackle new challenges in AI, Data Science and software development.
