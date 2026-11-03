@@ -14,13 +14,21 @@ I enjoy combining analytical thinking with hands-on development to build practic
 
 **Development:** FastAPI, PostgreSQL, Docker, Git
 
-### Selected projects
 
-**Dance School Management Platform** — An end-to-end application I developed independently to automate bookings, student management and administrative workflows.
+### Featured Projects
 
-**Doce — Accessible AI Content** — An LLM-powered solution that transforms videos into Easy-to-Read articles and provides a conversational voice assistant.
+**[Doce — AI-Powered Accessibility Platform](https://github.com/cristinamaragu/doce-ai-accessibility)**
 
-**Graph-Based Recommendation Engine** — A recommendation system using graph analytics, community detection and machine learning evaluation.
+An AI-powered application combining Google Gemini, n8n, PostgreSQL and ElevenLabs to transform video content into accessible articles and conversational experiences.
+
+**[Graph-Based Product Recommender](https://github.com/cristinamaragu/graph-based-product-recommender)**
+
+An end-to-end recommendation system using NetworkX, Louvain/Leiden and Neo4j. Achieved 0.484 Hit@5 against a 0.135 popularity baseline, with an interactive FastAPI demo.
+
+**Dance School Management Platform**
+
+An independent, end-to-end application I developed for a real dance school, automating student management, bookings, financial administration and communications to reduce manual work and errors.
+
 
 ### A little more about me
 
