@@ -6,13 +6,13 @@ I enjoy combining analytical thinking with hands-on development to build practic
 
 ### What I work with
 
-**Programming & Data:** Python, SQL, Pandas, NumPy
-
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras
-
-**AI & Automation:** LLMs, AI Agents, RAG, n8n, Make, REST APIs
-
-**Development:** FastAPI, PostgreSQL, Docker, Git
+**Programming & analysis**:  Python, SQL, pandas, NumPy, R, C++, Scala, Haskell, MATLAB, JavaScript, HTML/CSS
+**ML, statistics & validation**:    scikit-learn, Isolation Forest, XGBoost, LightGBM, K-Means, PCA, Optuna, SMOTE, Prophet, 
+LSTM, TensorFlow/Keras, SHAP; cross-validation, leakage controls, error metrics
+**Data, visualisation & delivery**:    Power BI, PostgreSQL, Streamlit, FastAPI, REST APIs, Git/GitHub/GitLab, Docker, MLflow, 
+Spark/PySpark, Hadoop, Databricks
+**AI & automation**:  ChatGPT (OpenAI), Claude Code (Anthropic), Gemini; LLM agents, RAG, n8n, Make, NetworkX, Neo4j, 
+Sentence-Transformers, spaCy, fastText, ElevenLabs
 
 
 ### Featured Projects
